@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "PBP_form",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
